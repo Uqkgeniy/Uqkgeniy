@@ -39,7 +39,7 @@ in progress...
 
 ## 📈 Kaggle Profile
 
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](ваш-профиль-kaggle)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/mattvey)
 
 **Achievements:**
 - 🏆 Competitions: -
@@ -50,7 +50,7 @@ in progress...
 
 ## 📫 Контакты:
 
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](@uqkmotor)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/uqkmotor)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uqkgeniy1@gmail.com)
 
 ---
