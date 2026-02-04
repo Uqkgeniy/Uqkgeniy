@@ -1,4 +1,4 @@
-# 👋 Привет! Я [Ваше Имя]
+# 👋 Приветсвую, на моем профиле
 
 ## 🎯 Data Science Journey
 
@@ -55,9 +55,9 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](ваш-профиль-kaggle)
 
 **Achievements:**
-- 🏆 Competitions: X
-- 📊 Datasets: X
-- 📓 Notebooks: X
+- 🏆 Competitions: -
+- 📊 Datasets: -
+- 📓 Notebooks: -
 
 ---
 
@@ -66,20 +66,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](your-telegram)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email)
-
----
-
-## 📖 Roadmap обучения:
-
-- [x] Python Basics
-- [x] Git & GitHub
-- [x] Linux/MacOS Terminal
-- [ ] SQL (в процессе)
-- [ ] Pandas & NumPy
-- [ ] Statistics & Linear Algebra
-- [ ] Classical ML (Scikit-Learn)
-- [ ] Deep Learning (PyTorch)
-- [ ] MLOps (Docker, FastAPI)
 
 ---
 
