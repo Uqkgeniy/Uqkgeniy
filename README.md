@@ -1,8 +1,8 @@
-# 👋 Приветсвую на моем профиле
+# Matvei Fedorov | Data Science
 
-## 🎯 Data Science Journey
+## 🎯 Data Science Intern
 
-Изучаю Data Science и Machine Learning с целью получить стажировку в этой области.
+Изучаю Data Science и Machine Learning.
 
 ### 📚 Сейчас изучаю:
 - SQL, Pandas, NumPy
