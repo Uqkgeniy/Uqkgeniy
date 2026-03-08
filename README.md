@@ -33,7 +33,15 @@
 
 ### 🎓 Учебные проекты:
 
-in progress...
+#### 🧠 [Raman Spectroscopy Brain Tissue Classifier](https://github.com/yulia-pecheykina/raman_spectroscopy)
+> Хакатон Nuclear IT Hack — командный проект
+
+Классификация рамановских спектров мозговой ткани для выявления нейропротективных изменений, связанных с экспрессией белка HSP70.
+
+- **Модель:** 1D-ResNet (PyTorch) — Accuracy **0.797**, Macro-AUC **0.932**
+- **Данные:** 124 425 спектров, 3 класса (endo / exo / control)
+- **XAI:** Grad-CAM визуализация активных спектральных областей
+- **Стек:** PyTorch, NumPy, Scikit-Learn, Matplotlib
 
 ---
 
