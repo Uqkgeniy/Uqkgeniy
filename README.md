@@ -43,6 +43,17 @@
 - **XAI:** Grad-CAM визуализация активных спектральных областей
 - **Стек:** PyTorch, NumPy, Scikit-Learn, Matplotlib
 
+#### [🏎️ F1 Race Predictor](https://github.com/Uqkgeniy/F1-race-predictor)
+> Учебный проект — индивидуальный
+
+Предсказание финишных позиций гонщиков Формулы-1 на основе квалификационных данных. Проект объединяет ансамблевые ML-модели и деплой через REST API.
+
+- **Модель:** Random Forest, XGBoost, SVR (ансамбль) — MAE 3.01, Top-3 Accuracy ~70%
+- **Данные:** 320+ исторических примеров, Jolpica API (Ergast Motor Racing Data)
+- **Пайплайн:** фильтрация сходов, нормализация квалификационных времён, инкрементальное обучение
+- **Деплой:** FastAPI + Uvicorn, Docker-контейнеризация
+- **Стек:** Python, scikit-learn, XGBoost, FastAPI, Docker, pandas, numpy​​​​​​​​​​​​​​​​
+
 ---
 
 ## 📈 Kaggle Profile
