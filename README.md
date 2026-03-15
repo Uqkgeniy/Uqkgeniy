@@ -62,8 +62,8 @@
 
 **Achievements:**
 - 🏆 Competitions: -
-- 📊 Datasets: -
-- 📓 Notebooks: -
+- 📊 Datasets: 1
+- 📓 Notebooks: 1
 
 ---
 
