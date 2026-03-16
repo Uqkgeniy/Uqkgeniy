@@ -52,7 +52,18 @@
 - **Данные:** 320+ исторических примеров, Jolpica API (Ergast Motor Racing Data)
 - **Пайплайн:** фильтрация сходов, нормализация квалификационных времён, инкрементальное обучение
 - **Деплой:** FastAPI + Uvicorn, Docker-контейнеризация
-- **Стек:** Python, scikit-learn, XGBoost, FastAPI, Docker, pandas, numpy​​​​​​​​​​​​​​​​
+- **Стек:** Python, scikit-learn, XGBoost, FastAPI, Docker, pandas, numpy
+
+#### 🛒 [Olist E-Commerce Analytics](https://github.com/Uqkgeniy/olist-ecommerce-analytics)
+> Учебный проект — индивидуальный
+
+SQL-аналитика и визуализация данных бразильского маркетплейса. Проект направлен на извлечение бизнес-метрик из сложной реляционной базы данных.
+
+- **Аналитика:** Когортный анализ (Retention Rate), расчет MoM роста, воронка конверсии
+- **Данные:** 100 000+ заказов, 9 связанных таблиц (Kaggle Dataset)
+- **СУБД:** Встроенная SQLite с обращением через SQLAlchemy
+- **SQL-навыки:** Window Functions, многотабличные JOIN, CTE, агрегации
+- **Стек:** Python, SQL, SQLAlchemy, pandas, seaborn, matplotlib​​​​​​​​​​​​​​​​
 
 ---
 
